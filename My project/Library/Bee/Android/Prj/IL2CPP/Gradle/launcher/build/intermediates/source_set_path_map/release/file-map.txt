@@ -1,0 +1,11 @@
+com.UnityTechnologies.com.unity.template.urpblank.launcher-arcore_client-0 C:\Users\LENOVO\.gradle\caches\transforms-3\8abb084d26ffae291fbd56722cf71548\transformed\arcore_client\res
+com.UnityTechnologies.com.unity.template.urpblank.launcher-pngs-1 C:\Users\LENOVO\Documents\GitHub\MP_AR_part1\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\pngs\release
+com.UnityTechnologies.com.unity.template.urpblank.launcher-resValues-2 C:\Users\LENOVO\Documents\GitHub\MP_AR_part1\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\resValues\release
+com.UnityTechnologies.com.unity.template.urpblank.launcher-rs-3 C:\Users\LENOVO\Documents\GitHub\MP_AR_part1\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\rs\release
+com.UnityTechnologies.com.unity.template.urpblank.launcher-mergeReleaseResources-4 C:\Users\LENOVO\Documents\GitHub\MP_AR_part1\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.UnityTechnologies.com.unity.template.urpblank.launcher-mergeReleaseResources-5 C:\Users\LENOVO\Documents\GitHub\MP_AR_part1\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.UnityTechnologies.com.unity.template.urpblank.launcher-merged_res-6 C:\Users\LENOVO\Documents\GitHub\MP_AR_part1\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\merged_res\release
+com.UnityTechnologies.com.unity.template.urpblank.launcher-main-7 C:\Users\LENOVO\Documents\GitHub\MP_AR_part1\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\res
+com.UnityTechnologies.com.unity.template.urpblank.launcher-release-8 C:\Users\LENOVO\Documents\GitHub\MP_AR_part1\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\release\res
+com.UnityTechnologies.com.unity.template.urpblank.launcher-packaged_res-9 C:\Users\LENOVO\Documents\GitHub\MP_AR_part1\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\packaged_res\release
+com.UnityTechnologies.com.unity.template.urpblank.launcher-packaged_res-10 C:\Users\LENOVO\Documents\GitHub\MP_AR_part1\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\packaged_res\release

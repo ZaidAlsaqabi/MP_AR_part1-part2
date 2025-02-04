@@ -1,0 +1,28 @@
+<root name="" element-id="234" assign-type="None" type="Unity.Android.Gradle.ModuleBuildGradleFile" base-type="Unity.Android.Gradle.BaseBlock" is-default="false" dependencies="">
+  <element name="" element-id="235" assign-type="None" type="Unity.Android.Gradle.ApplyPluginList" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="">
+    <element name="" element-id="315" assign-type="None" raw-value="apply plugin: 'android-library'" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+  </element>
+  <element name="dependencies" element-id="236" assign-type="None" type="Unity.Android.Gradle.Dependencies" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="235">
+    <element name="" element-id="316" assign-type="None" raw-value="implementation fileTree(dir: 'bin', include: ['*.jar'])" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+    <element name="" element-id="317" assign-type="None" raw-value="implementation fileTree(dir: 'libs', include: ['*.jar'])" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+  </element>
+  <element name="android" element-id="238" assign-type="None" type="Unity.Android.Gradle.Android" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="235">
+    <element name="compileSdkVersion" element-id="241" assign-type="None" property-value="33" type="Unity.Android.Gradle.PropertyUnsignedInteger" base-type="BaseProperty" is-default="true" dependencies="" />
+    <element name="buildToolsVersion" element-id="242" assign-type="None" property-value="32.0.0" type="Unity.Android.Gradle.PropertyString" base-type="BaseProperty" is-default="true" dependencies="" />
+    <element name="defaultConfig" element-id="247" assign-type="None" type="Unity.Android.Gradle.Flavor" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="">
+      <element name="targetSdkVersion" element-id="256" assign-type="None" property-value="23" type="Unity.Android.Gradle.PropertyUnsignedInteger" base-type="BaseProperty" is-default="true" dependencies="" />
+    </element>
+    <element name="lintOptions" element-id="262" assign-type="None" type="Unity.Android.Gradle.LintOptions" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="">
+      <element name="abortOnError" element-id="264" assign-type="None" property-value="False" type="Unity.Android.Gradle.PropertyBoolean" base-type="BaseProperty" is-default="true" dependencies="" />
+    </element>
+    <element name="sourceSets" element-id="301" assign-type="None" type="Unity.Android.Gradle.Block" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="">
+      <element name="main" element-id="318" assign-type="None" type="Unity.Android.Gradle.Block" base-type="Unity.Android.Gradle.BaseBlock" is-default="false" dependencies="">
+        <element name="" element-id="319" assign-type="None" raw-value="manifest.srcFile 'AndroidManifest.xml'" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+        <element name="" element-id="320" assign-type="None" raw-value="//java.srcDirs = ['src']" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+        <element name="" element-id="321" assign-type="None" raw-value="res.srcDirs = ['res']" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+        <element name="" element-id="322" assign-type="None" raw-value="assets.srcDirs = ['assets']" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+        <element name="" element-id="323" assign-type="None" raw-value="jniLibs.srcDirs = ['libs']" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+      </element>
+    </element>
+  </element>
+</root>

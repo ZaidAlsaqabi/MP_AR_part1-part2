@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="C:\Users\LENOVO\Documents\GitHub\MP_AR_part1\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher"
+    name=":launcher"
+    type="APP"
+    maven="Gradle:launcher:"
+    gradle="7.3.1"
+    buildFolder="build"
+    bootClassPath="C:\Program Files\Unity\Hub\Editor\2023.2.20f1-x86_64\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platforms\android-33\android.jar;C:\Program Files\Unity\Hub\Editor\2023.2.20f1-x86_64\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\build-tools\32.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

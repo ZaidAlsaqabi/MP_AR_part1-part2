@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.UnityTechnologies.com.unity.template.urpblank.launcher-mergeReleaseResources-4:/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\LENOVO\\Documents\\GitHub\\MP_AR_part1\\My project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "10",
+                        "endOffsets": "156"
+                    }
+                }
+            ]
+        }
+    ]
+}
